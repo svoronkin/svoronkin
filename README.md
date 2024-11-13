@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=svoronkin&theme=zenburn)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=svoronkin&theme=zenburn)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=svoronkin&theme=zenburn) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?svoronkin&theme=zenburn&utcOffset=3) 
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/svoronkin/)
 
