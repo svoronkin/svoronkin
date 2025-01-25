@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=svoronkin&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=svoronkin&theme=react)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=svoronkin&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=svoronkin&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=svoronkin&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=svoronkin&theme=react)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=svoronkin&theme=github_dark) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=svoronkin&theme=github_dark&utcOffset=3)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=svoronkin&theme=react) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=svoronkin&theme=react&utcOffset=3)
 
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/svoronkin/) [![Linkgedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergei-voronkin-b2151438/)
