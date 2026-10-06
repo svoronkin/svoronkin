@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![GitHub Stats](https://ghstats.dev/api/card?username=svoronkin)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=svoronkin&theme=react)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=svoronkin&theme=react)
